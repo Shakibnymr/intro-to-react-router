@@ -2,7 +2,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 
 const Post = ({post}) => {
-    console.log(post)
+    // console.log(post)
     const {category,id,status,title} = post
     const postStyles = {
         border: '2px solid yellow',
