@@ -1,0 +1,11 @@
+.content{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.status{
+    margin-top: 10px;
+    border: 3px solid rgb(22, 44, 32);
+    background-color: chartreuse;
+    font-size: larger;
+    font-weight: bolder;
+}
