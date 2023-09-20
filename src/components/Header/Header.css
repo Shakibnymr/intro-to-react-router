@@ -4,3 +4,8 @@ nav a{
 nav span{
 display: block;
 }
+nav a.active{
+    color: aqua; 
+    background-color: brown;
+    text-decoration: underline;
+}
